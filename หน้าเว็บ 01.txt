@@ -1,0 +1,28 @@
+
+http://jakkarin.eu5.org/
+http://jakkarin.eu5.org/cpanel
+-----------------------------------
+FreeWHA Control Panel
+Username: jakkarin.eu5.org
+Password: 1100703489434
+----------------------------------
+Your Personal FTP Information
+FTP Server/Host: jakkarin.eu5.org
+FTP Login/Username: jakkarin.eu5.org
+FTP PassWord: 1100703489434
+---------------------------------------
+Web based FTP client, located at http://jakkarin.eu5.org/ftp/.
+-------------------------------------
+Account Username: jakkarin.eu5.org
+Account Created: 2023-06-28
+Path: /home/vhosts/jakkarin.eu5.org
+
+FTP server (host): jakkarin.eu5.org
+FTP username: jakkarin.eu5.org
+FTP password: equal with account password
+Web-FTP: http://jakkarin.eu5.org/ftp/
+
+PhpMyAdmin: http://jakkarin.eu5.org/pma/
+----------------------------------------
+https://newserv.freewha.com/freewha.cpanel (ลิงค์หน้าอัพเว็บ)
+------------------------------------

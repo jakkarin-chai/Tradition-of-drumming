@@ -1,0 +1,58 @@
+<hr color="black">
+<!DOCTYPE html>
+<html>
+<head>
+<img src="D:\งาน\อาจารย์อนุชิต\New folder\images\p1.jpg"</center>
+<hr color="orange">
+	<body><center><FONT COLOT=green><FONT SIZE=16>
+<a href="homepage.html">หน้าหลัก</a>	
+	<FONT COLOT=green><FONT SIZE=16>
+<a href="page1.html">เนื้อหา</a>
+	<FONT COLOT=green><FONT SIZE=16>
+<a href="page2.html">Video</a>
+	<FONT COLOT=green><FONT SIZE=16>
+<a href="page3.html">Gallery</a>
+	<FONT COLOT=green><FONT SIZE=16>
+<a href="page4.html">ผู้จัดทำ</a>
+
+<hr color="black">
+  <title>ประเพณีการฟ้อนกลองตุ้ม</title>
+  <style>
+    /* กำหนดขนาดตัวหนังสือใน CSS */
+    h1 {
+      font-size: 100px;
+    }
+
+    p {
+      font-size: 40px;
+    }
+  </style>
+</head>
+<body><center>
+  <h1>ผู้จัดทำ</h1>
+  <left><BODY><p>นายกิตติชล จำนงค์ รหัสนักศึกษา 6410392201 คณะครุศาสตร์ สาขาวิชาคอมพิวเตอร์ศึกษา </p>
+</body>
+</html>
+
+
+<img src="D:\งาน\อาจารย์อนุชิต\New folder\images\pic 201.jpg"</center>
+
+<hr color="black">
+  <left><BODY><p>นายจักรรินทร์ ไชยเดช รหัสนักศึกษา 6410392202 คณะครุศาสตร์ สาขาวิชาคอมพิวเตอร์ศึกษา </p>
+</body>
+</html>
+
+
+<img src="D:\งาน\อาจารย์อนุชิต\New folder\images\pic 202.jpg"</center>
+
+<hr color="black">
+
+  <left><BODY><p>นายเอกรินทร์ บุญรินทร์ รหัสนักศึกษา 6410392212 คณะครุศาสตร์ สาขาวิชาคอมพิวเตอร์ศึกษา </p>
+</body>
+</html>
+
+
+<img src="D:\งาน\อาจารย์อนุชิต\New folder\images\pic 212.jpg"</center>
+
+<hr color="black">
+</HTML>
