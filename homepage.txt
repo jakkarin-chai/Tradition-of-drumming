@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="D:\งาน\อาจารย์อนุชิต\New folder\images\p1.jpg"</center>
+<hr color="orange">
+<body><center><FONT SIZE=12><a href="homepage.html">หน้าหลัก</a>	
+<a href="page1.html">เนื้อหา</a>
+<a href="page2.html">Video</a>
+<a href="page3.html">Gallary</a>
+<a href="page4.html">ผู้จัดทำ</a>
+<hr color="orange">
+<img src=""D:\งาน\อาจารย์อนุชิต\New folder\images\p2.jpg"</center>
+</header>
+</html>
